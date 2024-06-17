@@ -1,12 +1,12 @@
 import { Text, View } from 'react-native'
-import { AirplaneIcon } from '../../icons/icons'
+//import { AirplaneIcon } from '../../icons/icons'
 
-export const ComponentName = () => {
+export const HomeScreen = () => {
 
   return (
     <View>
       <Text>ComponentName</Text>
-      <AirplaneIcon />
+     {/*<AirplaneIcon />*/}
     </View>
   )
 }
